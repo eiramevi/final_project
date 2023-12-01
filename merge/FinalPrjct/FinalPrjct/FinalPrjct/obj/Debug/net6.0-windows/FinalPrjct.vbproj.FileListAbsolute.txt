@@ -1,0 +1,59 @@
+C:\Users\Richee\source\repos\FinalPrjct\FinalPrjct\bin\Debug\net6.0-windows\FinalPrjct.exe
+C:\Users\Richee\source\repos\FinalPrjct\FinalPrjct\bin\Debug\net6.0-windows\FinalPrjct.deps.json
+C:\Users\Richee\source\repos\FinalPrjct\FinalPrjct\bin\Debug\net6.0-windows\FinalPrjct.runtimeconfig.json
+C:\Users\Richee\source\repos\FinalPrjct\FinalPrjct\bin\Debug\net6.0-windows\FinalPrjct.dll
+C:\Users\Richee\source\repos\FinalPrjct\FinalPrjct\bin\Debug\net6.0-windows\FinalPrjct.pdb
+C:\Users\Richee\source\repos\FinalPrjct\FinalPrjct\obj\Debug\net6.0-windows\FinalPrjct.Form1.resources
+C:\Users\Richee\source\repos\FinalPrjct\FinalPrjct\obj\Debug\net6.0-windows\FinalPrjct.vbproj.GenerateResource.cache
+C:\Users\Richee\source\repos\FinalPrjct\FinalPrjct\obj\Debug\net6.0-windows\FinalPrjct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Richee\source\repos\FinalPrjct\FinalPrjct\obj\Debug\net6.0-windows\FinalPrjct.AssemblyInfoInputs.cache
+C:\Users\Richee\source\repos\FinalPrjct\FinalPrjct\obj\Debug\net6.0-windows\FinalPrjct.AssemblyInfo.vb
+C:\Users\Richee\source\repos\FinalPrjct\FinalPrjct\obj\Debug\net6.0-windows\FinalPrjct.vbproj.CoreCompileInputs.cache
+C:\Users\Richee\source\repos\FinalPrjct\FinalPrjct\obj\Debug\net6.0-windows\FinalPrjct.dll
+C:\Users\Richee\source\repos\FinalPrjct\FinalPrjct\obj\Debug\net6.0-windows\refint\FinalPrjct.dll
+C:\Users\Richee\source\repos\FinalPrjct\FinalPrjct\obj\Debug\net6.0-windows\FinalPrjct.pdb
+C:\Users\Richee\source\repos\FinalPrjct\FinalPrjct\obj\Debug\net6.0-windows\FinalPrjct.genruntimeconfig.cache
+C:\Users\Richee\source\repos\FinalPrjct\FinalPrjct\obj\Debug\net6.0-windows\ref\FinalPrjct.dll
+C:\Users\Richee\source\repos\FinalPrjct\FinalPrjct\obj\Debug\net6.0-windows\FinalPrjct.Employee_Dashboard.resources
+C:\Users\Richee\source\repos\FinalPrjct\FinalPrjct\obj\Debug\net6.0-windows\FinalPrjct.Resources.resources
+C:\Users\Richee\source\repos\FinalPrjct\FinalPrjct\FinalPrjct\bin\Debug\net6.0-windows\FinalPrjct.exe
+C:\Users\Richee\source\repos\FinalPrjct\FinalPrjct\FinalPrjct\bin\Debug\net6.0-windows\FinalPrjct.deps.json
+C:\Users\Richee\source\repos\FinalPrjct\FinalPrjct\FinalPrjct\bin\Debug\net6.0-windows\FinalPrjct.runtimeconfig.json
+C:\Users\Richee\source\repos\FinalPrjct\FinalPrjct\FinalPrjct\bin\Debug\net6.0-windows\FinalPrjct.dll
+C:\Users\Richee\source\repos\FinalPrjct\FinalPrjct\FinalPrjct\bin\Debug\net6.0-windows\FinalPrjct.pdb
+C:\Users\Richee\source\repos\FinalPrjct\FinalPrjct\FinalPrjct\obj\Debug\net6.0-windows\FinalPrjct.Admin_Dashboard.resources
+C:\Users\Richee\source\repos\FinalPrjct\FinalPrjct\FinalPrjct\obj\Debug\net6.0-windows\FinalPrjct.Employee_Dashboard.resources
+C:\Users\Richee\source\repos\FinalPrjct\FinalPrjct\FinalPrjct\obj\Debug\net6.0-windows\FinalPrjct.Form1.resources
+C:\Users\Richee\source\repos\FinalPrjct\FinalPrjct\FinalPrjct\obj\Debug\net6.0-windows\FinalPrjct.Resources.resources
+C:\Users\Richee\source\repos\FinalPrjct\FinalPrjct\FinalPrjct\obj\Debug\net6.0-windows\FinalPrjct.vbproj.GenerateResource.cache
+C:\Users\Richee\source\repos\FinalPrjct\FinalPrjct\FinalPrjct\obj\Debug\net6.0-windows\FinalPrjct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Richee\source\repos\FinalPrjct\FinalPrjct\FinalPrjct\obj\Debug\net6.0-windows\FinalPrjct.AssemblyInfoInputs.cache
+C:\Users\Richee\source\repos\FinalPrjct\FinalPrjct\FinalPrjct\obj\Debug\net6.0-windows\FinalPrjct.AssemblyInfo.vb
+C:\Users\Richee\source\repos\FinalPrjct\FinalPrjct\FinalPrjct\obj\Debug\net6.0-windows\FinalPrjct.vbproj.CoreCompileInputs.cache
+C:\Users\Richee\source\repos\FinalPrjct\FinalPrjct\FinalPrjct\obj\Debug\net6.0-windows\FinalPrjct.dll
+C:\Users\Richee\source\repos\FinalPrjct\FinalPrjct\FinalPrjct\obj\Debug\net6.0-windows\refint\FinalPrjct.dll
+C:\Users\Richee\source\repos\FinalPrjct\FinalPrjct\FinalPrjct\obj\Debug\net6.0-windows\FinalPrjct.pdb
+C:\Users\Richee\source\repos\FinalPrjct\FinalPrjct\FinalPrjct\obj\Debug\net6.0-windows\FinalPrjct.genruntimeconfig.cache
+C:\Users\Richee\source\repos\FinalPrjct\FinalPrjct\FinalPrjct\obj\Debug\net6.0-windows\ref\FinalPrjct.dll
+C:\Users\ASUS\source\repos\FinalPrjct (2)\FinalPrjct\FinalPrjct\FinalPrjct\bin\Debug\net6.0-windows\FinalPrjct.exe
+C:\Users\ASUS\source\repos\FinalPrjct (2)\FinalPrjct\FinalPrjct\FinalPrjct\bin\Debug\net6.0-windows\FinalPrjct.deps.json
+C:\Users\ASUS\source\repos\FinalPrjct (2)\FinalPrjct\FinalPrjct\FinalPrjct\bin\Debug\net6.0-windows\FinalPrjct.runtimeconfig.json
+C:\Users\ASUS\source\repos\FinalPrjct (2)\FinalPrjct\FinalPrjct\FinalPrjct\bin\Debug\net6.0-windows\FinalPrjct.dll
+C:\Users\ASUS\source\repos\FinalPrjct (2)\FinalPrjct\FinalPrjct\FinalPrjct\bin\Debug\net6.0-windows\FinalPrjct.pdb
+C:\Users\ASUS\source\repos\FinalPrjct (2)\FinalPrjct\FinalPrjct\FinalPrjct\obj\Debug\net6.0-windows\FinalPrjct.Admin_Dashboard.resources
+C:\Users\ASUS\source\repos\FinalPrjct (2)\FinalPrjct\FinalPrjct\FinalPrjct\obj\Debug\net6.0-windows\FinalPrjct.Employee_Dashboard.resources
+C:\Users\ASUS\source\repos\FinalPrjct (2)\FinalPrjct\FinalPrjct\FinalPrjct\obj\Debug\net6.0-windows\FinalPrjct.Form1.resources
+C:\Users\ASUS\source\repos\FinalPrjct (2)\FinalPrjct\FinalPrjct\FinalPrjct\obj\Debug\net6.0-windows\FinalPrjct.AdminRanking.resources
+C:\Users\ASUS\source\repos\FinalPrjct (2)\FinalPrjct\FinalPrjct\FinalPrjct\obj\Debug\net6.0-windows\FinalPrjct.EmployeeRanking.resources
+C:\Users\ASUS\source\repos\FinalPrjct (2)\FinalPrjct\FinalPrjct\FinalPrjct\obj\Debug\net6.0-windows\FinalPrjct.Resources.resources
+C:\Users\ASUS\source\repos\FinalPrjct (2)\FinalPrjct\FinalPrjct\FinalPrjct\obj\Debug\net6.0-windows\FinalPrjct.vbproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\FinalPrjct (2)\FinalPrjct\FinalPrjct\FinalPrjct\obj\Debug\net6.0-windows\FinalPrjct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\FinalPrjct (2)\FinalPrjct\FinalPrjct\FinalPrjct\obj\Debug\net6.0-windows\FinalPrjct.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\FinalPrjct (2)\FinalPrjct\FinalPrjct\FinalPrjct\obj\Debug\net6.0-windows\FinalPrjct.AssemblyInfo.vb
+C:\Users\ASUS\source\repos\FinalPrjct (2)\FinalPrjct\FinalPrjct\FinalPrjct\obj\Debug\net6.0-windows\FinalPrjct.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\FinalPrjct (2)\FinalPrjct\FinalPrjct\FinalPrjct\obj\Debug\net6.0-windows\FinalPrjct.dll
+C:\Users\ASUS\source\repos\FinalPrjct (2)\FinalPrjct\FinalPrjct\FinalPrjct\obj\Debug\net6.0-windows\refint\FinalPrjct.dll
+C:\Users\ASUS\source\repos\FinalPrjct (2)\FinalPrjct\FinalPrjct\FinalPrjct\obj\Debug\net6.0-windows\FinalPrjct.pdb
+C:\Users\ASUS\source\repos\FinalPrjct (2)\FinalPrjct\FinalPrjct\FinalPrjct\obj\Debug\net6.0-windows\FinalPrjct.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\FinalPrjct (2)\FinalPrjct\FinalPrjct\FinalPrjct\obj\Debug\net6.0-windows\ref\FinalPrjct.dll
+C:\Users\ASUS\source\repos\FinalPrjct (2)\FinalPrjct\FinalPrjct\FinalPrjct\obj\Debug\net6.0-windows\FinalPrjct.Employee_Account_Management.resources
